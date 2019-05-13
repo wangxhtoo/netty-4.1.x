@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e60b7a-13a0-41ef-b6c2-66106707eb9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/example/src/main/java/io/netty/example/echo/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/main/java/io/netty/example/echo/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transport/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/transport/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transport/src/main/java/io/netty/bootstrap/AbstractBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/transport/src/main/java/io/netty/bootstrap/AbstractBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transport/src/main/java/io/netty/bootstrap/AbstractBootstrapConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/transport/src/main/java/io/netty/bootstrap/AbstractBootstrapConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transport/src/main/java/io/netty/channel/AbstractChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/transport/src/main/java/io/netty/channel/AbstractChannel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transport/src/main/java/io/netty/channel/ReflectiveChannelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/transport/src/main/java/io/netty/channel/ReflectiveChannelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transport/src/main/java/io/netty/channel/nio/AbstractNioChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/transport/src/main/java/io/netty/channel/nio/AbstractNioChannel.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/handler/target/" />
+    <ignored path="$PROJECT_DIR$/codec-dns/target/" />
+    <ignored path="$PROJECT_DIR$/codec-smtp/target/" />
+    <ignored path="$PROJECT_DIR$/testsuite/target/" />
+    <ignored path="$PROJECT_DIR$/codec-haproxy/target/" />
+    <ignored path="$PROJECT_DIR$/testsuite-autobahn/target/" />
+    <ignored path="$PROJECT_DIR$/codec-mqtt/target/" />
+    <ignored path="$PROJECT_DIR$/transport-udt/target/" />
+    <ignored path="$PROJECT_DIR$/handler-proxy/target/" />
+    <ignored path="$PROJECT_DIR$/microbench/target/" />
+    <ignored path="$PROJECT_DIR$/dev-tools/target/" />
+    <ignored path="$PROJECT_DIR$/transport-rxtx/target/" />
+    <ignored path="$PROJECT_DIR$/codec-socks/target/" />
+    <ignored path="$PROJECT_DIR$/example/target/" />
+    <ignored path="$PROJECT_DIR$/transport-sctp/target/" />
+    <ignored path="$PROJECT_DIR$/codec-redis/target/" />
+    <ignored path="$PROJECT_DIR$/resolver/target/" />
+    <ignored path="$PROJECT_DIR$/transport-native-kqueue/target/" />
+    <ignored path="$PROJECT_DIR$/testsuite-http2/target/" />
+    <ignored path="$PROJECT_DIR$/transport/target/" />
+    <ignored path="$PROJECT_DIR$/transport-native-unix-common/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/codec-xml/target/" />
+    <ignored path="$PROJECT_DIR$/all/target/" />
+    <ignored path="$PROJECT_DIR$/resolver-dns/target/" />
+    <ignored path="$PROJECT_DIR$/codec-stomp/target/" />
+    <ignored path="$PROJECT_DIR$/bom/target/" />
+    <ignored path="$PROJECT_DIR$/codec-memcache/target/" />
+    <ignored path="$PROJECT_DIR$/transport-native-epoll/target/" />
+    <ignored path="$PROJECT_DIR$/codec-http2/target/" />
+    <ignored path="$PROJECT_DIR$/testsuite-osgi/target/" />
+    <ignored path="$PROJECT_DIR$/transport-native-unix-common-tests/target/" />
+    <ignored path="$PROJECT_DIR$/codec/target/" />
+    <ignored path="$PROJECT_DIR$/testsuite-shading/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tarball/target/" />
+    <ignored path="$PROJECT_DIR$/buffer/target/" />
+    <ignored path="$PROJECT_DIR$/codec-http/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e60b7a-13a0-41ef-b6c2-66106707eb9f" name="Default Changelist" comment="" />
+      <created>1556443487241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556443487241</updated>
+      <workItem from="1556443492526" duration="288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="288000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="720" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20324427" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
